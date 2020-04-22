@@ -1,10 +1,12 @@
 {
   "orgName": "Sage Skunkworks",
-  "edition": "Developer",
+  "edition": "Enterprise",
   "features": [
     "LightningServiceConsole",
     "ServiceCloud",
     "ServiceUser",
-    "PlatformConnect"
+    "PlatformConnect",
+    "Knowledge",
+    "Communities"
   ]
 }
