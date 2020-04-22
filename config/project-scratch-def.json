@@ -1,0 +1,10 @@
+{
+  "orgName": "Sage Skunkworks",
+  "edition": "Developer",
+  "features": [
+    "LightningServiceConsole",
+    "ServiceCloud",
+    "ServiceUser",
+    "PlatformConnect"
+  ]
+}
